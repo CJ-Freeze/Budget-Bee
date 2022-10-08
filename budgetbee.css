@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(45deg, hotpink, yellow);
+}
+
+h1{
+    font-style: italic;
+}
+
+legend{
+    font-weight: bold;
+    font-size: larger;
+}
+
+p{
+    text-align:center;
+}
+
+img{
+    height: 160px;
+    width: 160px;
+}
+
+.logo{
+    text-align:right;
+}
+
+.misson{
+    font-weight: bold;
+}
